@@ -1,0 +1,15 @@
+You can log in as an admin with the following details
+email: admin@capitalsage.com
+password: 12345678
+/******************/
+The following is achievable in the system right now
+
+1. You can add a business
+2. A business can add employees
+3. A business can delete employees
+4. Business can send appraisal to employee
+
+5. Employee can update password
+6. Created employee get automatic password sent to the used email
+7. employees can respond to appraisal
+8. Employees can view their appraisals
