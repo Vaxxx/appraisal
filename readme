@@ -1,6 +1,6 @@
 INSTALLING THE PROJECT
 1. Clone the project to your local webserver
-2. create a database and import the database file
+2. create a database and import the database file(laravel_capitalsage.sql)
 3. adjust the .env file to follow your database configuration
 4. navigate to the project via your command prompt and type: php artisan serve
 5. View the project in your browser: http://localhost:8000
